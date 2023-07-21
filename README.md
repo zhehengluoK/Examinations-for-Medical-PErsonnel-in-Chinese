@@ -11,8 +11,8 @@ We collect the tests for various medical professionals such as  *Medical Technol
 We tested the 2023 first-time examination set (2840) on multiple LLMs with zero-shot the results are shown as follows:
 
 | Model           | Zero-Shot|   
-|-----------------|----------|---|---|---|
-| GPT3.5-Turbo    | 52.25%   |   |   |   |
+|-----------------|----------|
+| GPT3.5-Turbo    | 52.25%   |
 
 
 
