@@ -1,4 +1,4 @@
-# Examinations-for-Medical-Personnel-in-Chinese(EMPC)
+# Examinations-for-Medical-PErsonnel-in-Chinese(EMPEC)
 
 This repo provides a test to measure language models' ability to answer medical questions in Chinese. (Both Traditional and Simplified)
 
@@ -19,7 +19,7 @@ We tested the 2023 first-time examination set (2840) on multiple LLMs with zero-
 
 EMPC forms a remarkable challenge for AI models and can serve as an effective tool to evaluate models' medical knowledge encoded in Chinese. We hope EMPC could support the exploration and building of Large Multi-lingual or Chinese Language Models, especially in the medical domain.
 
-Our dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1o4_SzQIc3P4NPpP8_6pvyFaLNRCQhptA/view?usp=sharing) and [百度网盘](https://pan.baidu.com/s/10JcniARsH8u-wS9JS4QfAQ?pwd=94kd).
+Our dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1PgXcl-7l2PWAevJeXkWpTN_WqBs-ea9W/view?usp=sharing) and [百度网盘](https://pan.baidu.com/s/1ANwxydOUXlVwIDFetAyeWw?pwd=7y8f).
 
 The distribution of the questions over subjects is shown here 
 <img src="./pics/sub_counter.png" alt="drawing" width="1000"/>. 
