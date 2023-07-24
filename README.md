@@ -10,11 +10,11 @@ We collect the tests for various medical professionals such as  *Medical Technol
 
 We tested the 2023 first-time examination set (2840) on multiple LLMs with zero-shot the results are shown as follows:
 
-| Model           | Zero-Shot|   
-|-----------------|----------|
-| GPT3.5-Turbo    | 52.25%   | 
-| GPT4            | 65.46%   |
-
+| Model           | Traditional|Zero-Shot|   
+|-----------------|------------|---------|
+| GPT3.5-Turbo    | No         |  52.25% | 
+| GPT4            | No         |  65.46% |
+| Llama-70b-Chat  | No         |  33.17% |
 
 
 EMPC forms a remarkable challenge for AI models and can serve as an effective tool to evaluate models' medical knowledge encoded in Chinese. We hope EMPC could support the exploration and building of Large Multi-lingual or Chinese Language Models, especially in the medical domain.
