@@ -28,3 +28,17 @@ And the distribution over professions is as follows:
 <img src="./pics/prof.png" alt="drawing" width="500"/>
 
 More details can be found in the upcoming report for this test.
+
+If you find EMPEC useful, please consider citing us.
+## Citation
+
+```
+@misc{EMPEC,
+  title={EMPEC, Examinations-for-Medical-PErsonnel-in-Chinese},
+  author={Zheheng Luo},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/zhehengluoK/Examinations-for-Medical-PErsonnel-in-Chinese}},
+}
+```
